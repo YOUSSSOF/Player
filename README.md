@@ -1,16 +1,17 @@
-# music_test
+Friendly and modern-looking music player build with flutter and hlep of GetX for mobile :)
 
-A new Flutter project.
+![20220802_212348 (1)](https://user-images.githubusercontent.com/93007857/182433841-4d4598b2-338b-4610-bcd2-c36e544aa6a1.gif)
 
-## Getting Started
+Features:
+- home screen that includes all the available songs on your phone. you can share/add to playlist/remove songs.
+- create/remove playlists.
+- albums screens.
+- and all tha basic expectations of a music player.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Instalation:
+```
+- clone the repo
+- flutter pub get
+- flutter run
+```
+enjoy!
