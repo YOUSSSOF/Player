@@ -5,7 +5,7 @@ Friendly and modern-looking music player build with flutter and hlep of GetX for
 ![20220802_212348 (1)](https://user-images.githubusercontent.com/93007857/182433841-4d4598b2-338b-4610-bcd2-c36e544aa6a1.gif)
 
 # Screen shots:
-![Screenshot_20220812_154215_com example music_test_50](https://user-images.githubusercontent.com/93007857/184344981-beba5012-4b8b-4bd8-90e4-24059d99cac6.jpg)
+![Screenshot_20220812_154215_com example music_test_1_20](https://user-images.githubusercontent.com/93007857/184346270-a78dd7af-94f2-4037-894e-844fff81d4b6.jpg)
 
 
 Features:
