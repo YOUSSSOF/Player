@@ -10,7 +10,7 @@ Friendly and modern-looking music player build with flutter and hlep of GetX for
 ![Screenshot_20220812_154230_com example music_test_20](https://user-images.githubusercontent.com/93007857/184346477-cfe40e77-d88a-42ac-96b0-e97daf6349ac.jpg)
 
 
-Features:
+## Features:
 - home screen that includes all the available songs on your phone. you can share/add to playlist/remove songs.
 - create/remove playlists.
 - albums screens.
